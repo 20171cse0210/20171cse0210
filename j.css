@@ -1,0 +1,31 @@
+#pa
+ {
+color:white;
+font-style:italic;
+font-family:Times New Roman;
+font-size:20px;
+font-weight:600;
+letter-spacing:5px;
+word-spacing:5px;
+text-indent:2cm;
+text-decoration:overline;
+text-decoration:underline;
+text-transform:captialise;
+}
+
+#h2{
+color:white;	
+text-shadow:0px 4px 56px blue;
+}
+
+body
+{
+background-image:url("2.jpg");
+background-repeat: repeat-x;
+background-size: cover;
+background-attachment: fixed;
+}
+
+img
+{
+}
